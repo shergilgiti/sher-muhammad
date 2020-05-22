@@ -1,0 +1,48 @@
+.navbar{
+    background-color: blueviolet !important;
+    height: 50px;
+   
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+.carousel-slide{
+    margin: 50px;
+}
+h1{
+    color: tomato;
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    margin-left: 50px;
+    text-align: justify;
+    margin-right: 30PX;
+  
+}
+.maincard{
+    width: 100%;
+    height: 450px;
+    background-color: wheat;
+    display: inline-flex;
+   
+   
+}
+.card1,.card2,.card3,.card4,.card5{
+    width: 250px !important;
+    margin-left: 70px;
+}
+.marquee{
+    color: wheat;
+}
+.footer{
+    width: 100%;
+    height: 40px;
+    color: wheat;
+    background-color: blueviolet;
+    font-weight: bold;
+}
+a:hover {
+    background-color: red;
+  }
